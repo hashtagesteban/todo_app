@@ -17,7 +17,7 @@ while True:
     case 'edit':
       number = int(input("Number of the todo to edit: "))
       number= number - 1
-      new_todo = input('Enter new to do: ')
+      new_todo = input('Enter new to do:')
       todos[number] = new_todo
 
     case 'exit':
