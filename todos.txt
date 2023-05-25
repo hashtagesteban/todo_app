@@ -1,3 +1,6 @@
 drive
 smile
 clean
+cut
+list
+eat
