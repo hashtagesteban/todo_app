@@ -21,6 +21,7 @@ while True:
       file.close()
       
       for index, item in enumerate(todos):
+        item = item.strip('\n')
         row = f"{index + 1}-{item}"
         print(row)
 
