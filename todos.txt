@@ -5,3 +5,5 @@ homework
 feed cat
 edit list
 drink water
+smoke cigs
+make pb&j
